@@ -1,0 +1,15 @@
+- create next project
+    npx create-next-app app-name
+
+- clean up directories
+
+- integrate tailwind css
+    https://tailwindcss.com/docs/guides/nextjs
+
+- generate jsconfig.json
+    https://code.visualstudio.com/docs/languages/jsconfig
+    set compilerOptions > baseUrl & paths
+
+- import pages and components
+    https://github.com/Jerga99/eth-marketplace-course/tree/202707381501f4fccc44ffb99c5bba3cd2b12f8c
+
